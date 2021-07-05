@@ -1,10 +1,9 @@
 #+startup: indent
 
 * Sardinie dovolená 2021
-** Ubytování 
+** Ubytování Tortoli
 - pro čtyři: [[https://www.booking.com/searchresults.cs.html?aid=356938&label=metagha-link-mapresultsCZ-hotel-7279419_dev-desktop_los-10_bw-3_dow-Thursday_defdate-0_room-727941902_329498983_3_2_0_lang-cs_curr-CZK_gstadt-3_rateid-0_aud-0_cid-_gacid-6623578704_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20210708&lang=cs&sid=90b5206b74f652540c1a9e6b5b44456d&sb=1&src=searchresults&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.cs.html%3Faid%3D356938%3Blabel%3Dmetagha-link-mapresultsCZ-hotel-7279419_dev-desktop_los-10_bw-3_dow-Thursday_defdate-0_room-727941902_329498983_3_2_0_lang-cs_curr-CZK_gstadt-3_rateid-0_aud-0_cid-_gacid-6623578704_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20210708%3Bsid%3D90b5206b74f652540c1a9e6b5b44456d%3Btmpl%3Dsearchresults%3Bcheckin%3D2021-07-08%3Bcheckout%3D2021-07-18%3Bcity%3D-131122%3Bclass_interval%3D1%3Bdest_id%3D-131122%3Bdest_type%3Dcity%3Bdtdisc%3D0%3Bgroup_adults%3D3%3Bgroup_children%3D0%3Bhighlighted_hotels%3D7279419%3Bhlrd%3Dwith_dates%3Binac%3D0%3Bindex_postcard%3D0%3Blabel_click%3Dundef%3Bno_rooms%3D1%3Boffset%3D0%3Bpostcard%3D0%3Bredirected%3D1%3Broom1%3DA%252CA%252CA%252C%3Bsb_price_type%3Dtotal%3Bshow_room%3D727941902%3Bshw_aparth%3D1%3Bslp_r_match%3D0%3Bsource%3Dhotel%3Bsrpvid%3D75cf2d6fd40a0023%3Bss_all%3D0%3Bssb%3Dempty%3Bsshis%3D0%3Btop_ufis%3D1%26%3B&highlighted_hotels=7279419&ss=Tortolì&is_ski_area=0&ssne=Tortolì&ssne_untouched=Tortolì&city=-131122&checkin_year=2021&checkin_month=7&checkin_monthday=8&checkout_year=2021&checkout_month=7&checkout_monthday=18&group_adults=4&group_children=0&no_rooms=1&sb_changed_group=1&from_sf=1][link]]
 - street view [[https://www.google.com/maps/place/Via+S.+Martino,+9,+08048+Tortolì+NU,+Itálie/@39.9259244,9.6596368,3a,75y,188.04h,105.67t/data=!3m6!1e1!3m4!1sKRIQ9g9jfkVLzJr5LA_MuQ!2e0!7i13312!8i6656!4m5!3m4!1s0x12de476b2cfaff15:0xa26698b81d68ed5!8m2!3d39.9258818!4d9.6597655][link]]
-
 
 ** Letenka
 ** Auto
