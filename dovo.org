@@ -1,5 +1,11 @@
+#+startup: indent
+
 * Sardinie dovolená 2021
 ** Ubytování
+- boutique [[https://www.booking.com/hotel/it/villa-teresina-boutique.cs.html?aid=356938;label=metagha-link-mapresultsCZ-hotel-7279419_dev-desktop_los-10_bw-3_dow-Thursday_defdate-0_room-727941902_329498983_3_2_0_lang-cs_curr-CZK_gstadt-3_rateid-0_aud-0_cid-_gacid-6623578704_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-20210708;sid=90b5206b74f652540c1a9e6b5b44456d;all_sr_blocks=727941902_329498983_3_2_0;checkin=2021-07-08;checkout=2021-07-18;dest_id=-131122;dest_type=city;dist=0;from_beach_key_ufi_sr=1;group_adults=3;group_children=0;hapos=1;highlighted_blocks=727941902_329498983_3_2_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA%2C;sb_price_type=total;show_room=727941902;sr_order=popularity;sr_pri_blocks=727941902_329498983_3_2_0__110000;srepoch=1625465267;srpvid=b13d2b19c91e0130;type=total;ucfs=1&#_][link]]
+- street view [[https://www.google.com/maps/place/Via+S.+Martino,+9,+08048+Tortolì+NU,+Itálie/@39.9259244,9.6596368,3a,75y,188.04h,105.67t/data=!3m6!1e1!3m4!1sKRIQ9g9jfkVLzJr5LA_MuQ!2e0!7i13312!8i6656!4m5!3m4!1s0x12de476b2cfaff15:0xa26698b81d68ed5!8m2!3d39.9258818!4d9.6597655][link]]
+
+
 ** Letenka
 ** Auto
 ** seznam věcí
