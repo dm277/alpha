@@ -1,5 +1,1 @@
-* Sardinie dovolená 2021
-* Ubytování
-* Letenka
-* Auto
-* seznam věcí
+alpha -- to leard GH
