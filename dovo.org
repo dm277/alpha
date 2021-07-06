@@ -23,7 +23,6 @@
 
 ** PD 8566D L
 - 64 wide [[https://www.edel-optics.cz/P8566-D-od-Porsche-Design.html][shop]]
-
 [[file:P8566D.png][image]]
 
 ** PD 8565A L
