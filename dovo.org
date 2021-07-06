@@ -21,10 +21,17 @@
 
 * brejle
 
-** PD 8566D
-- 64 wide [[https://www.edel-optics.cz/P8566-D-od-Porsche-Design.html][here]]
-[[file:P8565D.png]]
+** PD 8566D L
+- 64 wide 
+[[https://www.edel-optics.cz/P8566-D-od-Porsche-Design.html][shop]]
+[[file:P8566D.png][image]]
 
-** PD 8565A
-- 63 wide [[https://www.edel-optics.cz/P8565-A-od-Porsche-Design.html][here]]
-[[file:P8565A.png]]
+** PD 8565A L
+- 63 wide 
+[[https://www.edel-optics.cz/P8565-A-od-Porsche-Design.html][shop]]
+[[file:P8565A.png][image]]
+
+** PD 8531D XL
+- 67 wide 
+[[https://www.edel-optics.cz/P8531-D-od-Porsche-Design.html][shop]]
+[[file:P8531D.png][image]]
